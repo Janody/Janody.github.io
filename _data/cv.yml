@@ -11,48 +11,60 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Ecole Polytechnique Fédérale de Lausanne, Switzerland
-      year: 2024
+      year: 2019-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Civil and Environmental Engineering
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - "OASIS : An integrated optimisation framework for activity scheduling"
+            - "Advisors: Michel Bierlaire, Tim Hillel"
+
+    - title: Master of Science
+      institution: Ecole Polytechnique Fédérale de Lausanne, Switzerland
+      year: 2016-2019
+      description:
+        - Civil Engineering
+        - title: Thesis
+          contents:
+            - "Digital and physical methods to monitor urban mobility: Case study of Pully"
+            - "Advisors: Nikolas Geroliminis, Pierre-Yves Gilliéron"
 
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Researcher
       institution: Department of Civil and Environmental Engineering, Northwestern University
-      year: 2024-
+      year: 2024-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-  
+        - Mobility and Behavior Laboratory, McCormick School of Engineering
+        - Behavioral modeling research with applications in transport accessibility, public policy perception and acceptability, social components of travel behavior.
+        - Conducted multi-stakeholder participatory research with major US industry partners and Chicago community representatives to co-design turnover strategies for fleet decarbonation.
+
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/transp-or/oasis">OASIS</a>
+      year: 2019-now
+      description: Activity-based simulation framework.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - EPFL Outstanding PhD dissertation in Civil and Environmental Engineering
+    - year: 2023
       items:
-        - Max Planck Medal
+        - European Association for Research in Transportation (hEART) - Best paper award
+    - year: 2022
+      items:
+        - EPFL's Doctoral School of Civil and Environmental Engineering Mobility Award
+    - year: 2019
+      items:
+        - VSS Foundation award
+        - Citec Mobility Solutions award
 
 - title: Academic Interests
   type: nested_list
