@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher, Northwestern University
+subtitle: Postdoctoral researcher, University of Zurich
 
 profile:
   align: right
   image: photo_profil.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Department of Civil and Environmental Engineering</p>
-    <p>Northwestern University</p>
-    <p><a href="mailto:janody.pougala@northwestern.edu">E-mail</a></p>
+    <p>Department of Geography</p>
+    <p>university of Zurich</p>
+    <p><a href="mailto:janody.pougala@geo.uzh.ch">E-mail</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
