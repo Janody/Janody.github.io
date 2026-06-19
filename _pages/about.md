@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 <div style="text-align: justify">
-I am a postdoctoral researcher in the Urban Analytics, in the Department of Geography at the University of Zurich, Switzerland. I was previously a postdoc at Northwestern University (USA). I hold a Ph.D. in Civil Engineering from École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
+I am a postdoctoral researcher in Urban Analytics at the University of Zurich, Switzerland. I was previously a postdoc at Northwestern University (USA). I hold a Ph.D. in Civil Engineering from École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
 
 My research focuses on modeling travel behavior and demand, understanding inter- and intra-personal dynamics that shape our use of the urban environment, designing sustainable mobility and urban systems, and developing interdisciplinary methods between mathematical modeling, transport engineering, and urban social science.
 
