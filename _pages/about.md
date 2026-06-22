@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Geography</p>
-    <p>university of Zurich</p>
+    <p>University of Zurich</p>
     <p><a href="mailto:janody.pougala@geo.uzh.ch">E-mail</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
